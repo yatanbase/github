@@ -1,1 +1,1 @@
-console.log('fir aa gya tu')
+console.log('ha toh aunga m , its my life mah rules')
